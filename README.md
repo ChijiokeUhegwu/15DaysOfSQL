@@ -21,6 +21,7 @@ The notes, scripts, and challenges here explore basic to advanced PostgreSQL con
 * Correlated subqueries
 * Window functions
 * GROUPING SETS, CUBE, and ROLLUP
+* Common Table Expressions (CTEs)
 
 #### Performance & Optimization
 
@@ -33,10 +34,6 @@ The notes, scripts, and challenges here explore basic to advanced PostgreSQL con
 * User-Defined Functions (UDFs)
 * Stored Procedures
 * Role and access management
-
-#### Complex & Recursive Logic
-
-* Recursive Common Table Expressions (CTEs) for hierarchical data problems
 
 All SQL scripts were written, tested, and executed using PostgreSQL 16, with pgAdmin 16 as the primary database management interface.
 
